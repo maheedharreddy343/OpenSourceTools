@@ -14,13 +14,14 @@ By this, I mean the freedom for user and developers do much more with open sourc
 In this softwares you can able to create feachers, report the bugs and also fix them.
 which make you as contrebuter of that software.
 
-![1753677044602](https://file+.vscode-resource.vscode-cdn.net/c%3A/projects/OpenSource/image/week0/1753677044602.png)
+<img src="image/week0/1753677044602.png" alt="Red Hat" style="width: 500px; height: auto;" />
 
 Previously most of the large software projects happend in side the private companies.
 they sell thir proprietary software, typically with after sales support, Interest in open source started in early 80s.
 But, the Exponential growth happened after Linux.
 
-![1753636502787](https://file+.vscode-resource.vscode-cdn.net/c%3A/projects/OpenSource/image/week0/1753636502787.png)
+<img src="image/week0/1753636502787.png" alt="" style="width: 500px; height: auto;" />
+
 That is the point where two approaches, mixing proprietary software with open source.
 Red Hat is one the best known example with Red Hat Enterprise Linux, or RHEL.
 But RHEL has open source counterpart called centerOS.
