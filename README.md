@@ -1,5 +1,4 @@
-# 
-    Open Source Tools
+#  Open Source Tools
 
 ---
 
@@ -20,7 +19,7 @@
 
 | S.No | Unit                       | Topics | Reference Material        | Assignment(s) |
 | ---- | -------------------------- | ------ | ------------------------- | ------------- |
-| 1    | Intro to Open Source Tools |        | [intro](OpenSource\week0.md) |               |
+| 1    | Intro to Open Source Tools |        | [intro](week0.md)         |               |
 | 2    |                            |        |                           |               |
 | 3    |                            |        |                           |               |
 | 4    |                            |        |                           |               |
