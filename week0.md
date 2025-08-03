@@ -72,9 +72,6 @@ Always use well-maintained and trusted projects.
 | 13 | List running tasks          | `tasklist`                    | `ps aux` or `top`             |
 | 14 | Kill a running process      | `taskkill /IM <process-name>` | `killall <process-name>`        |
 | 15 | Disk check                  | `chkdsk <drive>:`             | `fsck` (run on unmounted disks) |
-| 16 | System file checker         | `sfc /scannow`                | `sha256sum`/manual checks       |
-| 17 | Shutdown system immediately | `shutdown /s /f /t 0`         | `shutdown now` or `poweroff`  |
-| 18 | Restart system              | `shutdown /r /f /t 0`         | `reboot`                        |
 
 ### Install VM(Virtual Machine)?
 
