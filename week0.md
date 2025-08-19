@@ -41,7 +41,7 @@ Always use well-maintained and trusted projects.
 * Keep dependencies updated.
 * Watch for security advisories.
 
-### **Example**
+### Example
 
 * **GIMP** : A powerful cross-platform imageeditor favored by photographers and graphic designers.
 * **VLC Media Player** : A popular multimediplayer supporting nearly all audio and video formats with hardware
@@ -55,7 +55,6 @@ Always use well-maintained and trusted projects.
 
 # Linux & Web Servers Guide for Beginners
 
-<<<<<<< HEAD >>>>>>>
 ## Table of Contents
 =======
 | #  | **Action**            | **Windows CMD Command**   | **Linux Bash Equivalent**   |
