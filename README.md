@@ -19,4 +19,4 @@
 
 | S.No | Unit                       | Topics | Reference Material        | Assignment(s) |
 | ---- | -------------------------- | ------ | ------------------------- | ------------- |
-| 1    | Intro to Open Source Tools |        | [intro](week0.md)         |               |
+| 1    | Intro to Open Source Tools |        | [Linux & Web Servers](week0.md)         |               |
