@@ -55,7 +55,27 @@ Always use well-maintained and trusted projects.
 
 # Linux & Web Servers Guide for Beginners
 
+<<<<<<< HEAD
 ## Table of Contents
+=======
+| #  | **Action**            | **Windows CMD Command**   | **Linux Bash Equivalent**   |
+| -- | --------------------------- | ------------------------------- | --------------------------------- |
+| 1  | Change directory            | `cd <directory>`              | `cd <directory>`                |
+| 2  | List directory contents     | `dir`                         | `ls`                            |
+| 3  | Create a directory          | `mkdir <directory>`           | `mkdir <directory>`             |
+| 4  | Remove a directory          | `rmdir <directory>`           | `rmdir <directory>` or rm -r    |
+| 5  | Delete a file               | `del <filename>`              | `rm <filename>`                 |
+| 6  | Copy a file                 | `copy <source> <destination>` | `cp <source> <destination>`     |
+| 7  | Move a file                 | `move <source> <destination>` | `mv <source> <destination>`     |
+| 8  | Rename a file               | `rename <oldname> <newname>`  | `mv <oldname> <newname>`        |
+| 9  | Display a message           | `echo <message>`              | `echo <message>`                |
+| 10 | Ping a host                 | `ping <hostname>`             | `ping <hostname>`               |
+| 11 | Clear screen                | `cls`                         | `clear`                         |
+| 12 | Display IP configuration    | `ipconfig`                    | `ifconfig` or `ip a`          |
+| 13 | List running tasks          | `tasklist`                    | `ps aux` or `top`             |
+| 14 | Kill a running process      | `taskkill /IM <process-name>` | `killall <process-name>`        |
+| 15 | Disk check                  | `chkdsk <drive>:`             | `fsck` (run on unmounted disks) |
+>>>>>>> 78aa7457116a524c491be4fe4d4c65a534cdfa8b
 
 1. [Linux Command Line – File Operations, Navigation, Permissions](#1-linux-command-line)
 2. [Vim &amp; Emacs Editors](#2-vim--emacs-editors)

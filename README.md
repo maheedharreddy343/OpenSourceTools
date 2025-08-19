@@ -1,5 +1,4 @@
-# 
-    Open Source Tools
+#  Open Source Tools
 
 ---
 
@@ -8,7 +7,7 @@
 
 ---
 
-* Faculty: Mr. Maheehar reddy Kommireddy
+* Faculty: Mr. Maheedhar Reddy Kommireddy
 * **Semester** : 1
 * **Year** : 2025
 
@@ -20,8 +19,4 @@
 
 | S.No | Unit                       | Topics | Reference Material        | Assignment(s) |
 | ---- | -------------------------- | ------ | ------------------------- | ------------- |
-| 1    | Intro to Open Source Tools |        | [intro](OpenSource\week0.md) |               |
-| 2    |                            |        |                           |               |
-| 3    |                            |        |                           |               |
-| 4    |                            |        |                           |               |
-| 5    |                            |        |                           |               |
+| 1    | Intro to Open Source Tools |        | [intro](week0.md)         |               |
