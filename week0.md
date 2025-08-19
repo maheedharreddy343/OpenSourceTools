@@ -55,7 +55,7 @@ Always use well-maintained and trusted projects.
 
 # Linux & Web Servers Guide for Beginners
 
-<<<<<<< HEAD
+<<<<<<< HEAD >>>>>>>
 ## Table of Contents
 =======
 | #  | **Action**            | **Windows CMD Command**   | **Linux Bash Equivalent**   |
@@ -75,7 +75,7 @@ Always use well-maintained and trusted projects.
 | 13 | List running tasks          | `tasklist`                    | `ps aux` or `top`             |
 | 14 | Kill a running process      | `taskkill /IM <process-name>` | `killall <process-name>`        |
 | 15 | Disk check                  | `chkdsk <drive>:`             | `fsck` (run on unmounted disks) |
->>>>>>> 78aa7457116a524c491be4fe4d4c65a534cdfa8b
+
 
 1. [Linux Command Line – File Operations, Navigation, Permissions](#1-linux-command-line)
 2. [Vim &amp; Emacs Editors](#2-vim--emacs-editors)
