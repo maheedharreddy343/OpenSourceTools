@@ -18,8 +18,8 @@
 | ---- | --------------------------------- | ------ | ----------------------------------------------------------------------------------------------- | ------------- |
 | 0    | Open Source Tools                 |        |                                                                                                 |               |
 | 1    | Linux & Web Servers               |        |[introduction](OpenSourcetools.md) <br /> [Linux &amp; Web Servers](Linux.md) <br />[Kernel](Kernel.md) <br />[Virtual Machine](VirtualMachine.md) |               |
-| 2    | Virtualization & Containerization |        |                                                                                                 |               |
-| 3    | Web Development Basics            |        |                                                                                                 |               |
-| 4    | Python, Ansible, and CI/CD        |        |                                                                                                 |               |
-| 5    | Git, SQLite & Monitoring          |        |                                                                                                 |               |
-|      |                                   |        |                                                                                                 |               |
+| 2    | Web Development Basics  |        |                                                                                                 |               |
+| 3    | Git, SQLite & Monitoring                     |        |                                                                                                 |               |
+|     |         |        |                                                                                                 |               |
+| 4    |Virtualization & Containerization |        |                                                                                                 |               |
+| 5    | Python, Ansible, and CI/CD   |        |                                                                                                 |               |
